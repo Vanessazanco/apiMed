@@ -1,4 +1,4 @@
-# apiMed
+# apiMed (Projeto de Estudo)
 Bem-vindo ao projeto apiMed! Este projeto foi desenvolvido para gerenciar um consultório médico, proporcionando uma agenda onde você pode escolher uma data, um horário e um especialista para marcar consultas.
 
 # Descrição
